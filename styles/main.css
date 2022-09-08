@@ -1,10 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins&display=swap');
 
 #par {
 	font-family: Poppins;
 	border: 10px solid rgb(0, 110, 255);
 	border-radius: 200px;
-	margin-top: 150px;
+	margin-top: 10px;
 	text-align: center;
 	font-size: 200px;
+}
+
+#ukr {
+	display: inline-block;
+	font-size: 80px;
+	font-family: Oswald;
+}
+
+.ukrPr {
+	display: inline-block;
+}
+
+#text {
+	margin-top: 90px;
+	justify-content: center;
+	display: flex;
 }
